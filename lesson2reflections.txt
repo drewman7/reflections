@@ -3,3 +3,5 @@ Sets up a repository to track changes
 allows you to stage which files will be part of a full commit
 
 Not sure
+
+Organization
