@@ -1,1 +1,3 @@
 When use remote rather than local?
+
+Pull manually since it is possible some changes you don't want brought locally.
