@@ -9,3 +9,5 @@ Branch - creates a new path.  does not copy the commit
 Offline use
 
 Email; harder
+
+When trying something different; keeps main/production in place
