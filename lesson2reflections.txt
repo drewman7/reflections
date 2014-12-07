@@ -7,3 +7,5 @@ Not sure
 Organization
 
 Visual is good
+
+Merge
