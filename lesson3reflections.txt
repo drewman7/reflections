@@ -1,3 +1,7 @@
 When use remote rather than local?
 
 Pull manually since it is possible some changes you don't want brought locally.
+
+Clone - copies commit locally or from Github to local
+Fork - copies a github repository in Github
+Branch - creates a new path.  does not copy the commit
