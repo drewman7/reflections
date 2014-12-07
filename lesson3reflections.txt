@@ -7,3 +7,5 @@ Fork - copies a github repository in Github
 Branch - creates a new path.  does not copy the commit
 
 Offline use
+
+Email; harder
